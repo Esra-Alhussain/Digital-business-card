@@ -16,7 +16,7 @@ export default function Info() {
                 <p className='person-email'>esra.alhussain.s@gmail.com</p>
                 
                 <button class="email-button"> <i class="fas fa-envelope" id="evelope-icon" ></i>Email</button>
-                <button class="linkedIn-button"> <i class="fab fa-linkedin" id="linkedin-icon"></i>LinkedIn</button>
+                <button class="linkedIn-button" > <i class="fab fa-linkedin" id="linkedin-icon"></i><a href="https://www.linkedin.com/in/esra-alhussain-997ab789/">LinkedIn</a></button>
                 <About />
                 <Interests />
                 <Footer />
